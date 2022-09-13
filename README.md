@@ -6,7 +6,7 @@ Welcome to my Github! <3
 🧠 I'm currently developing [Hectagon App](https://app.hectagon.finance/). 
 
 
-⚡️ Fun fact...
+⚡️ Fun fact... that i don't have any fun fact
 ## 🛠 Skills
 My strongest is about ReactJs, Nodejs, Typescript. I also have experience in Vue, React Native, Graphql, ...
 
