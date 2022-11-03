@@ -1,9 +1,9 @@
 # Hi, I'm Quoc! 👋
 Welcome to my Github! <3
 
-👩‍💻 I'm currently working on [Hectagon](https://www.hectagon.finance/).
+👩‍💻 I'm currently working on [Menuzen](https://www.menuzen.com/).
 
-🧠 I'm currently developing [Hectagon App](https://app.hectagon.finance/). 
+🧠 I'm currently developing [Menuzen App](https://core.menuzen.com/c/getstarted). 
 
 
 ⚡️ Fun fact... that i don't have any fun fact
